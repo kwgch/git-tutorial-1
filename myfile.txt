@@ -1,4 +1,3 @@
 Git commands can be seen in monkeys.
 add - registered in the index change
-commit - record the state of the index
 pull - get the contents of a remote repository
